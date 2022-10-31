@@ -1,0 +1,18 @@
+{
+  "name": "sbobet-asia9",
+  "main": "./lib/sbobet-asia9",
+  "version": "1.0.0",
+  "description": "sbobet แทงบอลออนไลน์ อันดับ 1 ของไทย sbo sbobetasia 9",
+  "keywords": "sbobet,sbo"[
+  ],
+  "activationCommands": {
+    "atom-workspace": "sbobet-asia9:toggle"
+  },
+  "repository": "https://github.com/hitman8888/sbobet-asia9",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

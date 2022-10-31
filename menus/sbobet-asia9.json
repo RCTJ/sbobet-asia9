@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle sbobet-asia9",
+        "command": "sbobet-asia9:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "sbobet-asia9",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "sbobet-asia9:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
